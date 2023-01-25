@@ -14,5 +14,5 @@ url = "https://twitter.com/GoCuriousDev"
 
 [[params.ananke_socials]]
 name = "mastodon"
-url = "https://social.example.com/@username"
+url = "https://hachyderm.io/@GoCuriousDev"
 rel = "me noopener"
