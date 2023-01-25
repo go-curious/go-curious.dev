@@ -1,11 +1,9 @@
 ---
-title: "My First Post"
+title: "Why Go?"
 date: 2023-01-25T13:37:58Z
 draft: true
 ---
 
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+Writing the first post on a new blog is always a bit of a dilemma: I could go straight into the content, or perhaps I should introduce myself.
