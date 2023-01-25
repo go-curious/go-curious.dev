@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Go Curious"
+title = "The Go-Curious Dev"
 # logo = "img/logo.png"
 description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -13,9 +13,9 @@ description = "My awesome website"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Go Curious"
-  image = "img/blowfish_logo.png"
-  headline = "I'm only human"
+  name = "The Go-Curious Dev"
+  image = "img/logo.png"
+  headline = "A reformed enterprise dev's journey into Go"
   bio = "A little bit about you"
   links = [
   #   { email = "mailto:hello@your_domain.com" },
